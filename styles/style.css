@@ -278,6 +278,11 @@
   flex-direction: row;
  }
 
+ .footer__column{
+  display:flex;
+  flex-direction:column;
+  }
+
   
 .footer__column_content_copyright {
   flex-basis:711px;
@@ -301,7 +306,6 @@
   line-height: 25px;
   color:white;
   margin:0;/*нулевой отступ*/
-  position: absolute;
 }
 
 .footer__column_content_info {
