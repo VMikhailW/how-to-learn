@@ -1,0 +1,8 @@
+.footer__author {
+    bottom: 18px;
+    padding-top:18px;
+    font-size: 18px;
+    line-height: 25px;
+    color:white;
+    margin:0;/*нулевой отступ*/
+  }
