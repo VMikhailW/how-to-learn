@@ -8,4 +8,9 @@
     text-decoration: none;
     color: black;
     z-index: 3;
-  }
+    transition: opacity .3s ease;
+}
+
+.feynman__link:hover {
+  opacity: 0.6;
+}

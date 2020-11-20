@@ -5,5 +5,9 @@
     margin-bottom:16px;
     padding-left:0px;
     list-style-type: none;
-    }
+    transition: opacity .3s ease;
+}
 
+.footer__column-link:hover {
+  opacity: 0.6;
+}
