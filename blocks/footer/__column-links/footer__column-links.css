@@ -7,7 +7,8 @@
     list-style-type: none;
     transition: opacity .3s ease;
 }
+/*Если читаете это сообщение то посмотрите скриншот https://gyazo.com/ad69d205e659c8709f98528c1c265cb4 сделано всё как в брифе */ 
 
-.footer__column-link:hover {
+.footer__column-links:hover {
   opacity: 0.6;
 }
